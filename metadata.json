@@ -1,0 +1,8 @@
+{
+  "name": "SpeakEasy - Domine o Inglês",
+  "description": "Uma plataforma completa de aprendizagem de línguas focada no mercado angolano, com tutoria por IA, lições interativas e uma comunidade vibrante.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
